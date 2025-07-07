@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Matheus Seidel
 
-<!--
-**Seidel010/Seidel010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia da Computação** – 4º período  
+🐍 Explorando o mundo da **programação com Python**  
+⚡ Curioso por **automação**, **tecnologia** e **projetos práticos**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Em aprendizado constante:
+- Ampliando conhecimentos em Python e C, banco de dados, infraestrutura de redes, inteligência artificial e automação.
+
+### 🚀 Objetivos atuais:
+- Criar pequenos projetos em Python  
+- Evoluir meu portfólio aqui no GitHub  
+- Buscar oportunidades de estágio na área de TI
+
+---
+
+### 📫 Como me encontrar:
+
+- 📧 Email: [msseidel44@gmail.com](mailto:msseidel44@gmail.com)  
+- 💼 LinkedIn: [matheus-seidel](https://www.linkedin.com/in/matheus-seidel)
+
