@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Matheus Seidel
 
 🎓 Estudante de **Engenharia da Computação** – 4º período  
-🐍 Explorando o mundo da **programação com Python**  
 ⚡ Curioso por **automação**, **tecnologia** e **projetos práticos**
 
 ---
