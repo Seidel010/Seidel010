@@ -9,7 +9,7 @@
 - Ampliando conhecimentos em Python e C, banco de dados, infraestrutura de redes, inteligência artificial e automação.
 
 ### 🚀 Objetivos atuais:
-- Criar pequenos projetos em Python  
+- Criar pequenos projetos
 - Evoluir meu portfólio aqui no GitHub  
 - Buscar oportunidades de estágio na área de TI
 
