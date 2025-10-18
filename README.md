@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Matheus Seidel
 
-🎓 Estudante de **Engenharia da Computação** – 4º período  
+🎓 Estudante de **Engenharia da Computação** – 4º período | **Tecnologia de Sistemas para Internet** - 1°período
 ⚡ Curioso por **automação**, **tecnologia** e **projetos práticos**
 
 ---
@@ -11,7 +11,7 @@
 ### 🚀 Objetivos atuais:
 - Criar pequenos projetos
 - Evoluir meu portfólio aqui no GitHub  
-- Buscar oportunidades de estágio na área de TI
+- Buscar oportunidades na área de TI
 
 ---
 
