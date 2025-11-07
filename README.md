@@ -4,7 +4,7 @@
 
 Me chamo Matheus de Almeida Seidel, tenho 22 anos e sou natural do Espirito Santo. Estou cursando o 4°período em Engenharia da Computação na Multivix e o 1°período em Tecnologias em Sistemas para Internet. Também possuo curso técnico em eletrotécnica pelo Senai.
 
-A tecnologia é algo que sempre foi do meu interesse, e segue me cativando cada vez mais, o que me leva a buscar evoluir e aprender cada vez mais sobre. É por essa razão que pretendo usar a plataforma do GitHub,participando ativamente de projetos e colaborações, e consequentemente evidenciando minha evolução.
+A tecnologia é algo que sempre foi do meu interesse, e segue me cativando cada vez mais, o que me leva a buscar evoluir e aprender a cada dia. É por essa razão que pretendo usar a plataforma do GitHub,participando ativamente de projetos e colaborações, e consequentemente evidenciando minha evolução.
 
 ---
 
