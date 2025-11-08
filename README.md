@@ -95,25 +95,3 @@ A tecnologia é algo que sempre foi do meu interesse, e segue me cativando cada 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        alt="Estatísticas do GitHub de Matheus" 
-        src="https://github-readme-stats.vercel.app/api?username=Seidel010&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
-        height="180px" 
-      />
-    </td>
-    <td align="center">
-      <img 
-        alt="Top Linguagens" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seidel010&theme=tokyonight&layout=compact&custom_title=Top%20Linguagens&langs_count=5"
-        height="180px" 
-      />
-    </td>
-  </tr>
-</table>
-
